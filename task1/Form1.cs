@@ -44,7 +44,7 @@ namespace task1
 
         private void btn_exit_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
 
         private void btn_show_department_Click(object sender, EventArgs e)
